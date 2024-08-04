@@ -1,0 +1,17 @@
+Below are the exposure times of the images
+
+Download source : 
+image11.jpg  0.0333
+image12.jpg  0.25
+image13.jpg  2.5
+image14.jpg  15.0
+
+image21.png
+image22.png
+image23.png
+
+Download source : https://github.com/opencv/opencv_extra/tree/4.x/testdata/cv/hdr/exposures
+memorial00.png  0.03125
+memorial03.png  0.25
+memorial06.png  2.0
+memorial09.png  16.0
